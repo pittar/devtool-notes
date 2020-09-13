@@ -1,0 +1,3 @@
+# DevTool Notes
+
+Sometimes you just need a place to write down random notes...
